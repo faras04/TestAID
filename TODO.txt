@@ -1,0 +1,6 @@
+﻿			**************Execution du JAR compilé**************
+
+Pour executer le jar compilé soyez d'abord sûr qu'une machine virtuelle est bien installée sur votre machine.
+Puis executer le jar en tapant la commande :
+	java -jar cheminDuJar.jar  
+sous l'invité de commande
